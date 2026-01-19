@@ -19,7 +19,7 @@ I work with Python-based automations, data cleaning, analysis, and visualization
 - **Email Automation with Python**  
   Automation for personalized email sending using datasets, SMTP and Python scripts.
 
-  - **Data Analysis Project**
+- **Data Analysis Project**
   Análise sociológica de ruptura de vínculos trabalhistas com Python.
 
 - **Data Analysis Project** *(in progress)*  

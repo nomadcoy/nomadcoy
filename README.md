@@ -22,8 +22,8 @@ I work with Python-based automations, data cleaning, analysis, and visualization
 - **Data Analysis Project** *(in progress)*  
   Exploratory data analysis and insights generation using real-world datasets.
 
-- ##Data Analysis Project
-  Análise sociológica de ruptura de vínculo trabalhista com Python
+- **Data Analysis Project**
+  Análise sociológica de ruptura de vínculos trabalhistas com Python
 
 
 ## Contact

@@ -19,13 +19,12 @@ I work with Python-based automations, data cleaning, analysis, and visualization
 - **Email Automation with Python**  
   Automation for personalized email sending using datasets, SMTP and Python scripts.
 
+  - **Data Analysis Project**
+  Análise sociológica de ruptura de vínculos trabalhistas com Python.
+
 - **Data Analysis Project** *(in progress)*  
   Exploratory data analysis and insights generation using real-world datasets.
 
-- **Data Analysis Project**
-  Análise sociológica de ruptura de vínculos trabalhistas com Python
-
-
 ## Contact
-- LinkedIn: *(add later)*
-- Email: *(optional)*
+- LinkedIn: *https://www.linkedin.com/in/francisco-neto-alves-264584377/*
+- Email: *f.neto.alves@hotmail.com*

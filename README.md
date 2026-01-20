@@ -25,6 +25,9 @@ I work with Python-based automations, data cleaning, analysis, and visualization
 - **Data Analysis Project** *(in progress)*  
   Exploratory data analysis and insights generation using real-world datasets.
 
+- **Score de Crédito, Machine Learning e Reprodução da Desigualdade Social
+  Machine Learning aplicado à sociologia e análise de dados
+
 ## Contact
 - LinkedIn: *https://www.linkedin.com/in/francisco-neto-alves-264584377/*
 - Email: *f.neto.alves@hotmail.com*

@@ -16,6 +16,10 @@ I work with Python-based automations, data cleaning, analysis, and visualization
 - Social Indicators & Public Policy Data
 
 ## Featured Projects
+
+- Capacity utilization forecast
+  Explore economical forecasting with machine learning aplyed to temporal series.
+
 - Email Automation with Python  
   Automation for personalized email sending using datasets, SMTP, and Python scripts.
 

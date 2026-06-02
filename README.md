@@ -93,13 +93,6 @@ I am particularly interested in:
 
 Feel free to explore my repositories. Most of them are practical solutions developed to solve real business problems, improve operational efficiency, and transform raw data into meaningful information.
 
-
-- Data Analysis Project (in progress)  
-  Exploratory data analysis and insights generation using real-world datasets.
-
-- Credit Score, Machine Learning and Social Inequality  
-  Machine Learning applied to sociology and social data analysis.
-
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/francisco-neto-alves-264584377/
 - Email: f.neto.alves@hotmail.com

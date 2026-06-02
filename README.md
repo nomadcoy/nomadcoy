@@ -1,6 +1,6 @@
 # Chico Alves
 
-### Data Analyst | Social Scientist
+### Data Analyst | Data Engineer | Social Scientist
 
 I'm Chico Alves, a Data Analyst and Social Scientist specialized in transforming data into actionable insights, automating processes, and building reliable data solutions.
 

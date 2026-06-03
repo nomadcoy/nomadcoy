@@ -10,11 +10,11 @@ Currently, my work is centered on the development of data pipelines, ETL process
 
 ### What I Do
 
-* Develop data analysis and business intelligence solutions.
+* Develop data analysis and BI solutions.
 * Build ETL and ELT processes for data integration.
 * Create interactive dashboards and performance indicators in Power BI.
-* Automate repetitive tasks using Python.
-* Integrate systems and APIs to centralize information.
+* Automation of repetitive tasks using Python.
+* Integration of systems and APIs to centralize information.
 * Design and maintain SQL Server databases and Data Warehouses.
 * Analyze social, economic, and organizational data to support decision-making.
 

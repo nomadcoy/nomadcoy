@@ -1,98 +1,159 @@
 # Chico Alves
 
-### Data Analyst | Data Engineer | Social Scientist
+### Data Scientist | Data Engineer | Social Scientist
 
-I'm Chico Alves, a Data Analyst and Social Scientist specialized in transforming data into actionable insights, automating processes, and building reliable data solutions.
+I'm Chico Alves, a Data Scientist, Data Engineer, and Social Scientist interest about transforming complex data into reliable analytical solutions and decision-support systems.
 
-My professional journey combines analytical thinking, social research, and technology. Over the years, I have worked on projects involving data analysis, business intelligence, process automation, API integrations, and data engineering.
+My background combines social research, software development, data engineering, and machine learning. I work across the entire data lifecycle, from data extraction and modeling to predictive analytics, automation, and business intelligence.
 
-Currently, my work is centered on the development of data pipelines, ETL processes, dashboard creation, and automation solutions that reduce operational effort and improve decision-making. I enjoy working across the entire data lifecycle, from data extraction and transformation to visualization and strategic analysis.
+Currently, I develop scalable ETL/ELT pipelines, data warehouses, machine learning models, dashboards, and automation tools that improve operational efficiency and support evidence-based decision-making. I enjoy designing end-to-end data solutions capable of handling heterogeneous datasets, large volumes of information, and real-world analytical challenges.
 
-### What I Do
+---
 
-* Develop data analysis and BI solutions.
-* Build ETL and ELT processes for data integration.
-* Create interactive dashboards and performance indicators in Power BI.
-* Automation of repetitive tasks using Python.
-* Integration of systems and APIs to centralize information.
-* Design and maintain SQL Server databases and Data Warehouses.
-* Analyze social, economic, and organizational data to support decision-making.
+## What I Do
 
-### Technical Skills
+* Design and develop ETL/ELT pipelines for structured and unstructured data.
+* Build relational databases and Data Warehouse solutions.
+* Develop Machine Learning models for classification, prediction and pattern recognition.
+* Perform Exploratory Data Analysis (EDA) and statistical modeling.
+* Create interactive dashboards and KPIs with Power BI.
+* Automate repetitive workflows using Python.
+* Integrate APIs and enterprise systems.
+* Apply data science to public policy, labor market studies and social inequality research.
 
-**Data & Analytics**
+---
 
-* Power BI
-* Data Visualization
-* KPI Development
+## Technical Skills
+
+### Data Science
+
+* Machine Learning
+* Scikit-learn
+* Supervised Learning
+* Classification Models
+* Random Forest
+* K-Nearest Neighbors (KNN)
+* Feature Engineering
+* Model Evaluation
 * Exploratory Data Analysis (EDA)
 * Statistical Analysis
+* Predictive Analytics
 
-**Data Engineering**
+### Data Engineering
 
 * SQL Server
-* ETL / ELT Processes
+* PostgreSQL
+* ETL / ELT
 * SSIS (SQL Server Integration Services)
-* Data Warehouse Modeling
-* Data Quality Monitoring
+* Data Warehouse
+* Data Modeling
+* Data Pipelines
+* Data Quality
+* BigQuery
 
-**Programming & Automation**
+### Programming
 
 * Python
 * pandas
-* numpy
-* matplotlib
-* plotly
-* requests
-* pyodbc
-* openpyxl
+* NumPy
+* PySpark
+* Matplotlib
+* Plotly
+* Scikit-learn
+* Requests
+* PyODBC
+* OpenPyXL
+
+### Business Intelligence
+
+* Power BI
+* KPI Development
+* Dashboard Design
+* Data Visualization
+* Performance Monitoring
+
+### Automation & Cloud
+
 * Process Automation
-* API Integrations
+* API Integration
+* Google Drive API
+* SQL Server Agent
+* Git
+* GitHub
 
-**Social Research**
+### Social Analytics
 
-* Public Policy Analysis
+* Public Policy Analytics
 * Social Indicators
+* Socioeconomic Data
+* Labor Market Analysis
 * Quantitative Research
-* Labor Market Studies
-* Socioeconomic Data Analysis
+* Territorial Analysis
 
-### Featured Projects
+---
 
-#### Capacity Utilization Forecast
+## Featured Projects
 
-Machine learning and time series project developed to forecast industrial capacity utilization and support analytical decision-making.
+### Credit Scoring, Machine Learning and Social Inequality
 
-#### Google Drive Project Automation
+Machine Learning project developed with Scikit-learn to investigate how credit scoring algorithms reproduce structural social inequalities through automated classification. The project applies Random Forest and KNN models while discussing algorithmic bias, proxy variables and fairness.
 
-Python application designed to automate project folder creation, permission management, and document organization within Google Drive.
+**Technologies:** Python, Pandas, Scikit-learn, Jupyter Notebook
 
-#### Sophos API Integration & Business Intelligence
+---
 
-End-to-end data pipeline that extracts cybersecurity metrics from APIs, stores information in SQL Server, and delivers insights through Power BI dashboards.
+### Industrial Capacity Utilization Forecast
 
-#### Email Automation with Python
+Predictive analytics project using time series and machine learning techniques to forecast industrial capacity utilization and support decision-making.
 
-Automation solution for personalized email delivery using structured datasets and SMTP services.
+---
 
-#### Labor Market Analysis
+### RAIS Data Pipeline
 
-Applied sociological research project focused on labor bond ruptures, combining statistical methods, data visualization, and social science methodologies.
+Engineering pipeline designed to process more than 5 GB of Brazilian labor microdata using chunk processing, feature engineering and Parquet optimization, generating analytical datasets for labor market research.
 
-### Interests
+**Technologies:** Python, Pandas, Parquet
 
-I am particularly interested in:
+---
+
+### ETL Architecture with SQL Server & SSIS
+
+Implementation of a production ETL pipeline following a Bronze/Silver architecture, integrating ERP data into SQL Server through SSIS, Stored Procedures and SQL Server Agent.
+
+---
+
+### Google Drive Project Automation
+
+Python application that automates project creation, folder hierarchy, permissions and document organization using Google Drive APIs.
+
+---
+
+### Sophos API Integration & Business Intelligence
+
+End-to-end pipeline integrating cybersecurity APIs with SQL Server and Power BI dashboards for operational monitoring.
+
+---
+
+## Research Interests
 
 * Data Engineering
-* Business Intelligence
-* Artificial Intelligence
-* Process Automation
 * Machine Learning
+* Artificial Intelligence
+* Analytics Engineering
+* Predictive Modeling
+* Business Intelligence
 * Public Policy Analytics
+* Algorithmic Fairness
+* Social Inequality
 * Data-Driven Decision Making
 
-Feel free to explore my repositories. Most of them are practical solutions developed to solve real business problems, improve operational efficiency, and transform raw data into meaningful information.
+---
+
+Most repositories available here are practical projects inspired by real-world challenges involving data engineering, analytics, machine learning and automation. My goal is to combine technical excellence with analytical thinking to create reliable, scalable and socially meaningful data solutions.
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/francisco-neto-alves-264584377/
-- Email: f.neto.alves@hotmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/francisco-neto-alves-264584377/
+
+**Email:** [f.neto.alves@hotmail.com](mailto:f.neto.alves@hotmail.com)
+
